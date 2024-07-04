@@ -1,6 +1,8 @@
 [![Masterhead](https://www.sysbunny.com/blog/wp-content/uploads/2018/02/hire-android-developer.png)] 
 <h1 align="center">Hi 👋, I'm Prajapati Vijay</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate App developer from India As a Computer Science Engineering student with a passion for solving complex problems and developing innovative solutions, I am dedicated to expanding my skills in software development. My interests lie particularly in mobile app development, where I leverage Flutter 🛠️ for cross-platform applications and Java ☕ and Kotlin 📝 for native Android development.
+
+Throughout my academic journey, I have honed my abilities in programming 💻, algorithm design 🔍, and software engineering principles 📐. I thrive on challenges that require critical thinking and creativity, and I am always eager to learn new technologies and methodologies to stay ahead in this ever-evolving field 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-1511&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-1511" /> </p>
 
